@@ -5,9 +5,12 @@ This library provide a logging class to record data or debug your application.
 
 
 
-To install::
+To install
 
-    python3 setup.py
+With pip::
+
+    pip3 install gfa-logging
+
 
 Usage example for two loggers::
 
